@@ -1,0 +1,28 @@
+body {
+  background-color: #edeef7;
+}
+
+.nav-shadow {
+  box-shadow: 1px 3px 10px 1px rgba(50, 50, 50, 0.15);
+
+}
+
+.nav-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #edeef7;
+}
+
+.nav-title:hover {
+  font-family: 'Montserrat', sans-serif;
+  color: #e4fbff;
+}
+
+.total-cases {
+  font-family: 'Montserrat', sans-serif;
+  color: #edeef7;
+}
+
+.total-cases:hover {
+  font-family: 'Montserrat', sans-serif;
+  color: #e4fbff;
+}
